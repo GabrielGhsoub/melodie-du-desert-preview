@@ -59,11 +59,13 @@ export default function App() {
         <div className="hero__voile" />
         <div className="shell hero__in">
           <p className="sur">Démonstration</p>
-          <h1>Vos options font le prix.<br />Le prix peut se faire tout seul.</h1>
+          <h1>Rien ne se réserve sans vous.<br />Seuls les chiffres se font tout seuls.</h1>
           <p className="hero__texte">
             Le dromadaire de selle, la nuit de plus au bivouac, le départ de Marrakech
-            avec un retour par Ouarzazate: chaque choix a déjà son tarif chez vous.
-            Ici, ils se calculent au fur et à mesure, et l'acompte de 20% suit.
+            avec un retour par Ouarzazate: chaque choix a déjà son tarif chez vous. Ici,
+            le voyageur les assemble lui-même et voit le total avancer, puis vous envoie
+            sa demande. La conversation reste la vôtre, l'arithmétique se fait toute
+            seule, et l'acompte de 20% suit vos règles.
           </p>
         </div>
       </section>
